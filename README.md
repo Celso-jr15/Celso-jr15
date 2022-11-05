@@ -15,7 +15,7 @@ Também já construi um e-commerce com foco em venda de lingerie (Fornecedor da 
 Além dos meus projetos, também atuo como freelancer em desenvolvimento de sites.
 
 Linguagens que estou em constante aprendizado:
-- 🔭 PHP, React, CSS, JS, SQL, NODE 
+- 🔭 PHP, React, TypeScript CSS, JS, SQL, NODE 
 
 
 Em constante aprendizado...
